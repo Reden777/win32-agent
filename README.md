@@ -10,3 +10,4 @@ Language: C++
 2. [ ] After direct terminal usage is ready, add interactive chat sessions where you write messages and it types back, ana you can add files for it to edit.
 3. [ ] DPAPI to be used to encrypt the key at rest.
 4. [ ] Strict C++ 6.0 compatibility is not mandatory, Vista support takes precedence
+5. [ ] The ability to save interactive threads (as json) and import them again later
