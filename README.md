@@ -4,6 +4,7 @@ A win32 CLI agent. Supposed to compile on C++ 6.0, but I cannot test that at thi
 OS Target: Vista minimum
 WinHTTP to be used.
 Zero external dependencies
+Language: C++
 
 1. [ ] Must support usage like this: `agent 'Five names for a cat'` (aka direct in terminal)
 2. [ ] After direct terminal usage is ready, add interactive chat sessions where you write messages and it types back, ana you can add files for it to edit.
