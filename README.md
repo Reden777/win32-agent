@@ -2,7 +2,8 @@
 
 A win32 CLI agent. Supposed to compile on C++ 6.0, but I cannot test that at this time.
 OS Target: Vista minimum
-WinHTTP to be used in modern Windows (10/11)
+WinHTTP to be used.
+Zero external dependencies
 
 DPAPI to be used to encrypt the key at rest.
 
